@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan Ashraf</h1>
-<h3 align="center">Hi there 👋 A passionate student of CS who loves programming, Doing CS from a University but Improving my skills by open-source Education materials, by doing courses on Coursera from world top universities Want to become a pentester. working hard to make a bright future. Just give me 6 more years to prove myself!, and i will show you the real me</h3>
+<h3 align="center">A passionate student of CS who loves programming, Doing CS from a University but Improving my skills by open-source Education materials, by doing courses on Coursera from world top universities Want to become a pentester. working hard to make a bright future. Just give me 6 more years to prove myself!, and i will show you the real me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mriceflame&label=Profile%20views&color=0e75b6&style=flat" alt="mriceflame" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C++,python**
 
-- 📫 How to reach me **mriceflame@protonmail.com**
+- 📫 How to reach me: **mriceflame@protonmail.com**
 
 - 📄 Know about my experiences [mriceflame.ml](mriceflame.ml)
 
@@ -28,10 +28,10 @@
 <a href="https://dev.to/mriceflame" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mriceflame" height="30" width="40" /></a>
 <a href="https://twitter.com/mriceflame" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mriceflame" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/s4a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="s4a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12279541/farhan-ashraf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/12279541/farhan-ashraf" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12279541/farhan-ashraf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/12279541/farhan-ashraf" height="30" width="40" /></a>
 <a href="https://fb.com/mriceflame" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mriceflame" height="30" width="40" /></a>
 <a href="https://instagram.com/mriceflame1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mriceflame1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucgjjmufnxsgw_jvuii1c-iw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucgjjmufnxsgw_jvuii1c-iw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucgjjmufnxsgw_jvuii1c-iw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucgjjmufnxsgw_jvuii1c-iw" height="30" width="40" /></a>
 <a href="https://discord.gg/iceflame#8345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="iceflame#8345" height="30" width="40" /></a>
 </p>
 
