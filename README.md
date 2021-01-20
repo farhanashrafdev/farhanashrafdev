@@ -36,7 +36,7 @@ thinking skills</h3>
 <a href="https://stackoverflow.com/users/12279541/farhan-ashraf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/12279541/farhan-ashraf" height="30" width="40" /></a>
 <a href="https://fb.com/mriceflame" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mriceflame" height="30" width="40" /></a>
 <a href="https://instagram.com/mriceflame1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mriceflame1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucgjjmufnxsgw_jvuii1c-iw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCGjjMUFNXSgW_jVUiI1c-Iw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCGjjMUFNXSgW_jVUiI1c-Iw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCGjjMUFNXSgW_jVUiI1c-Iw" height="30" width="40" /></a>
 <a href="https://discord.gg/iceflame#8345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="iceflame#8345" height="30" width="40" /></a>
 </p>
 
