@@ -16,7 +16,8 @@ thinking skills.</h3>
 
 - 👯 I’m looking to collaborate on **Python, C++ projects**
 
-- 👨‍💻 All of my projects are available at [https://devpost.com/mriceflame](https://devpost.com/mriceflame)
+- 👨‍💻 All of my projects are available at
+  [https://devpost.com/mriceflame](https://devpost.com/mriceflame)
 
 - 💬 Ask me about **C++,python**
 
@@ -25,6 +26,7 @@ thinking skills.</h3>
 - 📄 Know about my experiences [mriceflame.ml](mriceflame.ml)
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
