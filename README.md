@@ -22,7 +22,7 @@ thinking skills</h3>
 
 - 📫 How to reach me: **mriceflame@protonmail.com**
 
-- 📄 Know about my experiences [mriceflame.ml](mriceflame.ml)
+- 📄 Know about my experiences [mriceflame.ml](http://mriceflame.ml/?i=1)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
