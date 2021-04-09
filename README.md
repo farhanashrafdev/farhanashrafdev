@@ -45,7 +45,7 @@ thinking skills</h3>
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mriceflame&show_icons=true&locale=en&layout=compact" alt="mriceflame" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mriceflame&show_icons=true&locale=en&layout=compact" alt="mriceflame" />
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mriceflame&show_icons=true&locale=en" alt="mriceflame" />
 </p>
 
