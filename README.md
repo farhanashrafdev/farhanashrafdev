@@ -55,5 +55,4 @@ thinking skills.</h3>
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mriceflame&show_icons=true&locale=en" alt="mriceflame" />
 </p>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?mriceflame" frameborder="0"></iframe>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mriceflame&" alt="mriceflame" /></p>
