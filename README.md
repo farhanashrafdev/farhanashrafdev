@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farhan Ashraf</h1>
 <h3 align="center">A passionate CS Student</h3>
+<h3 align="center">Motivated individual with strong work ethic and ability to work independently. Strong
+organizational and team collaboration skills with experience in improving processes. Highenergy student currently finalizing Bachelor's Degree in Computer Science and prepared to
+contribute abilities to Cyber Security Expert role while further developing acquired skills and
+gaining real-world experience. Highly organized, responsible and well-versed in Linux.
+Positively impact Cyber Security operations with top-notch communication and critical
+thinking skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mriceflame&label=Profile%20views&color=0e75b6&style=flat" alt="mriceflame" /> </p>
 
