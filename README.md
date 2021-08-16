@@ -17,7 +17,7 @@ thinking skills.</h3>
 
 - 👨‍💻 All of my projects are available at [https://devpost.com/mriceflame](https://devpost.com/mriceflame)
 
-- 📝 I regularly write articles on [blog.mriceflame.co](blog.mriceflame.co)
+- 📝 I regularly write articles on [blog.mriceflame.co](https://blog.mriceflame.co/)
 
 - 💬 Ask me about **C++,python,git,github,html,css,boostrap,Ml,DL.**
 
