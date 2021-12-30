@@ -2,7 +2,7 @@
 <h3 align="center">A passionate CS Student</h3>
 <h3 align="center">Who loves to code in different languages and frameworks.</h3>
 
-<div> <img src="https://komarev.com/ghpvc/?username=mriceflame&label=Profile%20views&color=0e75b6&style=flat" alt="mriceflame" /> </div>
+<div> <img src="https://visitor-badge.glitch.me/badge?page_id=mriceflame&label=Profile%20views&color=0e75b6&style=flat" alt="mriceflame" /> </div>
 
 <div> <a href="https://github.com/mriceflame"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=mriceflame" alt="mriceflame" /></a> </div>
 
