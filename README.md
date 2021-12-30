@@ -21,6 +21,7 @@
 - ⚡ Fun fact **I think i am funny :D**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
