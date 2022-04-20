@@ -1,0 +1,26 @@
+
+name: GitHub-Profile-3D-Contrib
+
+on: push
+  # schedule:
+  #   - cron: "0 */18 * * *"
+  # workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_3D_GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: ${{ github.repository_count }}
+      - name: Commit & Push
+        run: |
+          git config user.name saadhaxxan
+          git config user.email saad.haxxan786@gmail.com
+          git add -A .
+          git commit -m "Personal 3d Contributions images updated"
+          git push
