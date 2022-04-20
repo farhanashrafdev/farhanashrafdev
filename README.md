@@ -7,12 +7,7 @@
 <!-- <div> <a href="https://github.com/mriceflame"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=mriceflame" alt="mriceflame" /></a></div>--->
 <p align="left"> <a href="https://twitter.com/mriceflame" target="blank"><img src="https://img.shields.io/twitter/follow/mriceflame?logo=twitter&style=for-the-badge" alt="mriceflame" /></a> </p>
 
-<div>
-<img src="https://readme-typing-svg.herokuapp.com/?color=1AF739&center=true&multiline=true&lines=Hi+my+name+is+Farhan;I+am+a+Computer+Science+Student </img>
 
-</div>
-
-	  <br>
 - 🌱 I’m currently learning **Python,MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://devpost.com/mriceflame](https://devpost.com/mriceflame)
