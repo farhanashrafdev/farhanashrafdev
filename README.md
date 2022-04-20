@@ -63,11 +63,11 @@ https://blog.mriceflame.co/how-to-install-discord-on-kali-linux-20211-and-other-
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p>
-<!-- 
+
 # Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/mriceflame/mriceflame/blob/master/github-metrics.svg" />
-</p> -->
+	<img width="625em" src="![](./profile-3d-contrib/profile-green-animate.svg)" />
+
 
 <br>
 <!-- <h3 align="left">Support:</h3>
