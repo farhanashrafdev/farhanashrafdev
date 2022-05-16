@@ -22,7 +22,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://blog.mriceflame.co/how-to-install-discord-on-kali-linux-20211-and-other-linux-distributions
+https://blog.farhanashraf.tech/how-to-install-discord-on-kali-linux-20211-and-other-linux-distributions
+https://blog.farhanashraf.tech/get-aws-certified-for-free
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
