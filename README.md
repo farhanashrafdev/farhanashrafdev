@@ -23,6 +23,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 https://blog.farhanashraf.tech/how-to-install-discord-on-kali-linux-20211-and-other-linux-distributions
+<br>
 https://blog.farhanashraf.tech/get-aws-certified-for-free
 <!-- BLOG-POST-LIST:END -->
 
