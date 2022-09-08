@@ -23,9 +23,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
-<li> <a href"https://blog.farhanashraf.tech/how-to-install-discord-on-kali-linux-20211-and-other-linux-distributions">How to install Discord on Kali Linux-20211 and other Linux Distributions</a> </li>
+<li> <a href="https://blog.farhanashraf.tech/how-to-install-discord-on-kali-linux-20211-and-other-linux-distributions"> How to install Discord on Kali Linux-20211 and other Linux Distributions </a> </li>
 <br>
-<li> <a href"https://blog.farhanashraf.tech/get-aws-certified-for-free">Get AWS Certified For Free</a> </li>
+<li> <a href="https://blog.farhanashraf.tech/get-aws-certified-for-free">Get AWS Certified For Free</a> </li>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
