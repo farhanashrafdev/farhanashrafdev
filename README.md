@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farhan Ashraf</h1>
 <h3 align="center">A passionate CS Student</h3>
-<h3 align="center">Who loves to code in different languages and frameworks.</h3>
+<h3 align="center">Who loves to code using different languages and frameworks.</h3>
 
 <div> <img src="https://visitor-badge.glitch.me/badge?page_id=farhanashrafdev&label=Profile%20views&color=0e75b6&style=flat"  /> </div>
 
