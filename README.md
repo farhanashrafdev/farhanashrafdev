@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [blog.farhanashraf.tech](https://blog.farhanashraf.tech)
 
-- 💬 Ask me about **C++,python,git,github,html,css,boostrap,Ml,DL.**
+- 💬 Ask me about **C++,python,git,github,html,css,boostrap,ML,DL.**
 
 - 📫 How to reach me **mriceflame@protonmail.com**
 
