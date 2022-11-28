@@ -9,7 +9,6 @@
 <!-- <div> <a href="https://github.com/farhanashrafdev"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=mriceflame" alt="mriceflame" /></a></div>--->
 <p align="left"> <a href="https://twitter.com/mriceflame" target="blank"><img src="https://img.shields.io/twitter/follow/mriceflame?logo=twitter&style=for-the-badge" alt="mriceflame" /></a> </p>
 
-
 - 🌱 I’m currently learning **Python, kubernetes, Securing CI/CD pipelines**
 
 - 👨‍💻 All of my projects are available at [https://devpost.com/mriceflame](https://devpost.com/mriceflame)
