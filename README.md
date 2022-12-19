@@ -23,6 +23,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
+
+<li> <a href="https://blog.farhanashraf.tech/how-to-install-discord-on-kali-linux-20211-and-other-linux-distributions"> Threat Actors and the Attack Surface </a> </li>
+
 <li> <a href="https://blog.farhanashraf.tech/how-to-install-discord-on-kali-linux-20211-and-other-linux-distributions"> How to install Discord on Kali Linux-20211 and other Linux Distributions </a> </li>
 <br>
 <li> <a href="https://blog.farhanashraf.tech/get-aws-certified-for-free">Get AWS Certified For Free</a> </li>
