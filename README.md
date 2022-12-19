@@ -3,7 +3,7 @@
 <h3 align="center">I also love to code using different languages and frameworks.</h3>
 <h3 align="center">Full Stack Engineer to be!</h3>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div> <img src="https://visitor-badge.glitch.me/badge?page_id=farhanashrafdev&label=Profile%20views&color=0e75b6&style=flat"  /> </div>
 
 <!-- <div> <a href="https://github.com/farhanashrafdev"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=mriceflame" alt="mriceflame" /></a></div>--->
@@ -20,9 +20,6 @@
 - 📫 How to reach me **mriceflame@protonmail.com**
 
 - ⚡ Fun fact **I think i am funny :D**
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="farhanashrafdev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/farhanashrafdev?trk=profile-badge">Farhan Ashraf</a></div>
-              
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
