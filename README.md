@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farhan Ashraf</h1>
-<h3 align="center">DevOps/SecOps Engineer</h3>
-<h3 align="center">I also love to code using different languages and frameworks.</h3>
-<h3 align="center">Full Stack Engineer to be!</h3>
+<h3 align="center">DevSecOps Engineer at Systems Ltd</h3>
+<h3 align="center">Leveraging my background in computer science and passion for cybersecurity to drive innovation in DevSecOps.</h3>
+
 
 
 <div> <img src="https://visitor-badge.glitch.me/badge?page_id=farhanashrafdev&label=Profile%20views&color=0e75b6&style=flat"  /> </div>
