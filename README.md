@@ -83,9 +83,13 @@
 	<img width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/github-metrics.svg" />
 </p>
 
-<p align="center">
+<p align="left">
 	<img width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/metrics.plugin.habits.facts.svg" />
 </p>
+<p align="right">
+	<img width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/metrics.plugin.lines.history.svg" />
+</p>
+
 
 <br>
 <!-- <h3 align="left">Support:</h3>
