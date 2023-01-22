@@ -1,0 +1,22 @@
+name: Detailed report
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Detailed report
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.pagespeed.detailed.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_pagespeed: yes
+        plugin_pagespeed_detailed: yes
+        plugin_pagespeed_token: ${{ secrets.PERSONAL_3D_GITHUB_TOKEN }}
+        plugin_pagespeed_url: https://lecoq.io
