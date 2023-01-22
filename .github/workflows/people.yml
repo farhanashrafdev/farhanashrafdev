@@ -1,0 +1,22 @@
+name: Contributors and sponsors
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Metrics
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.people.repository.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        template: repository
+        repo: metrics
+        plugin_people: yes
+        plugin_people_types: contributors, stargazers, watchers, sponsors
