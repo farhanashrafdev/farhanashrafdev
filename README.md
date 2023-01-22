@@ -28,7 +28,7 @@
 
 <li> <a href="https://blog.farhanashraf.tech/how-to-install-discord-on-kali-linux-20211-and-other-linux-distributions"> How to install Discord on Kali Linux-20211 and other Linux Distributions </a> </li>
 
-<li> <a href="https://blog.farhanashraf.dev/haveibeenpwned-breach-heres-what-you-need-to-know-and-do">Your data got breached? what to do next?</a> </li> 
+<li> <a href="https://blog.farhanashraf.dev/haveibeenpwned-breach-heres-what-you-need-to-know-and-do">Your data got breached? what to do next?</a> </li>
 <li> <a href="https://blog.farhanashraf.tech/get-aws-certified-for-free">Get AWS Certified For Free</a> </li>
 <br>
 	<!-- BLOG-POST-LIST:END -->
