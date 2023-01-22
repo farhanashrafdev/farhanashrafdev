@@ -2,7 +2,7 @@ name: Mildly interesting facts
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   metrics:
     runs-on: ubuntu-latest
