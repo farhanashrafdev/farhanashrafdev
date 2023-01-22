@@ -81,11 +81,10 @@
 	<img width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/github-metrics.svg" />
 </p>
 
-<div>
-   
+<p>
      <img style="float:left" width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/metrics.plugin.habits.facts.svg" />
      <img  style="float:right" width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/metrics.plugin.lines.history.svg" />
-   </div>
+ </p>
 
 
 <!-- <h3 align="left">Support:</h3>
