@@ -16,24 +16,18 @@
 
 - 💬 Ask me about **C++,python,git,github,html,css,boostrap,ML,DL.**
 
-
 - 📫 How to reach me **mriceflame@protonmail.com**
 
 - ⚡ Fun fact **I think i am funny :D**
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
-
-
 <li> <a href="https://blog.farhanashraf.tech/how-to-install-discord-on-kali-linux-20211-and-other-linux-distributions"> Threat Actors and the Attack Surface </a> </li>
-
 <li> <a href="https://blog.farhanashraf.tech/how-to-install-discord-on-kali-linux-20211-and-other-linux-distributions"> How to install Discord on Kali Linux-20211 and other Linux Distributions </a> </li>
-
 <li> <a href="https://blog.farhanashraf.dev/haveibeenpwned-breach-heres-what-you-need-to-know-and-do">Your data got breached? what to do next?</a> </li> 
 <li> <a href="https://blog.farhanashraf.tech/get-aws-certified-for-free">Get AWS Certified For Free</a> </li>
 <br>
 	<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mriceflame" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mriceflame" height="30" width="40" /></a>
@@ -73,7 +67,6 @@
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p>
-
 
 <h3 align="center">Github Metrics</h3>
 
