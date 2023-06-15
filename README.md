@@ -7,7 +7,6 @@
 <!-- <div> <a href="https://github.com/farhanashrafdev"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=mriceflame" alt="mriceflame" /></a></div>--->
 <p align="left"> <a href="https://twitter.com/mriceflame" target="blank"><img src="https://img.shields.io/twitter/follow/mriceflame?logo=twitter&style=for-the-badge" alt="mriceflame" /></a> </p>
 
-
 <ul>
 		<li>🌱 I’m currently learning <strong>Python, kubernetes, Securing CI/CD pipelines</strong></li>
 		<li>👨‍💻 All of my projects are available at <a href="https://devpost.com/mriceflame">https://devpost.com/mriceflame</a></li>
