@@ -2,6 +2,8 @@
 <h3 align="center">DevSecOps Engineer at Systems Ltd</h3>
 <h3 align="center">Leveraging my background in computer science and passion for cybersecurity to drive innovation in DevSecOps.</h3>
 
+
+
 <div> <img src="[https://visitor-badge.glitch.me/badge?page_id=farhanashrafdev&label=Profile%20views&color=0e75b6&style=flat](https://api.visitorbadge.io/api/visitors?path=farhanashrafdev&label=Visiters&countColor=%23263759)"  /> </div>
 
 <!-- <div> <a href="https://github.com/farhanashrafdev"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=mriceflame" alt="mriceflame" /></a></div>--->
