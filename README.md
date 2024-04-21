@@ -4,8 +4,8 @@
 
 <div> <img src="[](https://komarev.com/ghpvc/?username=farhanashrafdev)"/> </div>
 
-<!-- <div> <a href="https://github.com/farhanashrafdev"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=mriceflame" alt="mriceflame" /></a></div>--->
-<p align="left"> <a href="https://twitter.com/mriceflame" target="blank"><img src="https://img.shields.io/twitter/follow/mriceflame?logo=twitter&style=for-the-badge" alt="mriceflame" /></a> </p>
+<div> <a href="https://github.com/farhanashrafdev"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=mriceflame" alt="mriceflame" /></a></div>
+<!-- <p align="left"> <a href="https://twitter.com/mriceflame" target="blank"><img src="https://img.shields.io/twitter/follow/mriceflame?logo=twitter&style=for-the-badge" alt="mriceflame" /></a> </p>-->
 
 
 <ul>
