@@ -6,11 +6,13 @@
     <img src="https://komarev.com/ghpvc/?username=farhanashrafdev" alt="Profile Views"/>
 </div>
 
+<!--
 <div align="center">
     <a href="https://github.com/farhanashrafdev">
         <img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=farhanashrafdev" alt="GitHub Trophies" />
     </a>
 </div>
+-->
 
 <ul>
     <li>🌱 I’m currently learning <strong>Python, Kubernetes, Securing CI/CD pipelines</strong></li>
