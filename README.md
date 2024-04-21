@@ -59,10 +59,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhanashrafdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farhanashrafdev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<!--   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanashrafdev&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true"/> -->
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanashrafdev&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true"/> 
 </p>
 </p>
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1AF739&center=true&multiline=true&lines=Hi+my+name+is+Farhan;I+am+a+Computer+Science+Student)](https://git.io/typing-svg) -->
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1AF739&center=true&multiline=true&lines=Hi+my+name+is+Farhan;I+am+a+Computer+Science+Student)](https://git.io/typing-svg) 
 
 # Github Contributions
 <h4 align="center">Isometric view of contributions in the last year</h4>
@@ -80,6 +80,6 @@
      <img style="float:left" width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/metrics.plugin.habits.facts.svg" />
     
 </p>
-<!-- <h3 align="left">Support:</h3>
+ <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mriceflame"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mriceflame" /></a></p><br><br>
-<br> -->
+<br> 
