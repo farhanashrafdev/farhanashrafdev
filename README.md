@@ -24,9 +24,7 @@
 
 
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=farhanashrafdev/90DaysOfCyberSecurity&type=Date)](https://star-history.com/#farhanashrafdev/90DaysOfCyberSecurity&Date)
 
 <h3>Blogs posts</h3>
 <ul>
