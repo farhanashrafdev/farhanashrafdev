@@ -22,8 +22,6 @@
     <li>⚡ Fun fact <strong>I possess a penchant for humor that I believe rivals that of the most seasoned comedians. 😄</strong></li>
 </ul>
 
-
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=farhanashrafdev/90DaysOfCyberSecurity&type=Date)](https://star-history.com/#farhanashrafdev/90DaysOfCyberSecurity&Date)
@@ -56,6 +54,7 @@
 </p>
 
 # Github Contributions
+
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
     <a href="./profile-3d-contrib/profile-night-green.svg">
