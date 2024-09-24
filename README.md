@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farhan Ashraf</h1>
-<h3 align="center">DevSecOps Engineer at Systems Ltd</h3>
-<h3 align="center">Leveraging my background in computer science and passion for cybersecurity to drive innovation in DevSecOps.</h3>
+<h3 align="center">DevOps Engineer at Systems Ltd</h3>
+<h3 align="center">Leveraging my background in computer science and passion for AI and Cloud Native Technologies to drive innovation in DevOps/MLOps.</h3>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=farhanashrafdev" alt="Profile Views"/>
@@ -17,7 +17,7 @@
     <li>🌱 I’m currently learning <strong>Python, Kubernetes, Securing CI/CD pipelines</strong></li>
     <li>👨‍💻 All of my projects are available at <a href="https://devpost.com/mriceflame">https://devpost.com/mriceflame</a></li>
     <li>📝 I regularly write articles on <a href="https://blog.farhanashraf.dev">blog.farhanashraf.dev</a></li>
-    <li>💬 Ask me about <strong>Docker, Kubernetes, DevSecOps, Cloud Security, Incident Response, Threat Intelligence.</strong></li>
+    <li>💬 Ask me about <strong>Docker, Kubernetes, DevOps</strong></li>
     <li>📫 How to reach me <strong>mriceflame@protonmail.com</strong></li>
     <li>⚡ Fun fact <strong>I possess a penchant for humor that I believe rivals that of the most seasoned comedians. 😄</strong></li>
 </ul>
