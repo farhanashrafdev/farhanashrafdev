@@ -37,7 +37,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/mriceflame" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mriceflame" height="30" width="40" /></a>
-    <a href="https://twitter.com/mriceflame" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mriceflame" height="30" width="40" /></a>
+   // <a href="https://twitter.com/mriceflame" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mriceflame" height="30" width="40" /></a>
     <!-- Add other social media links here -->
 </p>
 
