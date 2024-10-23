@@ -64,7 +64,7 @@
 
 <h3 align="center">GitHub Metrics</h3>
 <p align="center">
-    <img width="625em" src="https://GitHub.com/farhanashrafdev/farhanashrafdev/blob/master/GitHub-metrics.svg" />
+    <img width="625em" src="https://Github.com/farhanashrafdev/farhanashrafdev/blob/master/Github-metrics.svg" />
 </p>
 
 <p>
