@@ -7,8 +7,8 @@
 </div>
 <!--
 <div align="center">
-    <a href="https://github.com/farhanashrafdev">
-        <img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=farhanashrafdev" alt="GitHub Trophies" />
+    <a href="https://GitHub.com/farhanashrafdev">
+        <img src="https://hacked-GitHub-stat-trophies.flyn-nick.vercel.app/?username=farhanashrafdev" alt="GitHub Trophies" />
     </a>
 </div>
 -->
@@ -37,7 +37,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/mriceflame" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mriceflame" height="30" width="40" /></a>
-   // <a href="https://twitter.com/mriceflame" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mriceflame" height="30" width="40" /></a>
+   // <a href="https://twitter.com/mriceflame" target="_blank"><img src="https://raw.GitHubusercontent.com/rahuldkjain/GitHub-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mriceflame" height="30" width="40" /></a>
     <!-- Add other social media links here -->
 </p>
 
@@ -46,14 +46,14 @@
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
-    <a href="https://github.com/farhanashrafdev">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhanashrafdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farhanashrafdev&layout=compact&langs_count=8&theme=algolia"/>
+    <a href="https://GitHub.com/farhanashrafdev">
+        <img height="180em" src="https://GitHub-readme-stats.vercel.app/api?username=farhanashrafdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://GitHub-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farhanashrafdev&layout=compact&langs_count=8&theme=algolia"/>
     </a>
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanashrafdev&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true"/> 
+    <img width="90%" src="https://GitHub-readme-streak-stats.herokuapp.com/?user=farhanashrafdev&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true"/> 
 </p>
 
-# Github Contributions
+# GitHub Contributions
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
     <a href="./profile-3d-contrib/profile-night-green.svg">
@@ -61,13 +61,13 @@
     </a>
 </p>
 
-<h3 align="center">Github Metrics</h3>
+<h3 align="center">GitHub Metrics</h3>
 <p align="center">
-    <img width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/github-metrics.svg" />
+    <img width="625em" src="https://GitHub.com/farhanashrafdev/farhanashrafdev/blob/master/GitHub-metrics.svg" />
 </p>
 
 <p>
-    <img style="float:left" width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/metrics.plugin.habits.facts.svg" />
+    <img style="float:left" width="625em" src="https://GitHub.com/farhanashrafdev/farhanashrafdev/blob/master/metrics.plugin.habits.facts.svg" />
 </p>
 
 <h3 align="left">Support:</h3>
