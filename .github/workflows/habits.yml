@@ -24,7 +24,7 @@ jobs:
         plugin_habits_charts: false
         config_timezone: Asia/Karachi
     - name: Upload metrics
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3 # Updated to v3
       with:
         name: metrics
         path: metrics.plugin.habits.facts.svg
