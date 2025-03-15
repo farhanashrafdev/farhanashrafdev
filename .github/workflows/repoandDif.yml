@@ -1,6 +1,6 @@
 name: Metrics for Repositories and Diff History
 on:
-  pull_request:
+  push:
     branches:
       - master
 jobs:
