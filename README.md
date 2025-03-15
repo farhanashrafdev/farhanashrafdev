@@ -52,7 +52,7 @@
         <img height="180em" src="https://GitHub-readme-stats.vercel.app/api?username=farhanashrafdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://GitHub-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farhanashrafdev&layout=compact&langs_count=8&theme=algolia"/>
     </a>
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanashrafdev&theme=merko&hide_border=true"/> 
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanashrafdev&theme=merko&hide_border=true" alt"https://camo.githubusercontent.com/9056ec9ba5e41d1e207a10d955a3a357ba4c5dfece422d9767031ef03235a949/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d66617268616e617368726166646576267468656d653d6d65726b6f26686964655f626f726465723d74727565"/> 
 </p>
 
 # GitHub Contributions
