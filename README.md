@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farhan Ashraf</h1>
 <h3 align="center">DevSecOps Engineer at Systems Ltd</h3>
-<h3 align="center">Leveraging my background in computer science and passion for AI and Cloud Native Technologies to drive innovation in DevOps/MLOps.</h3>
+<h3 align="center">Leveraging my background in computer science and passion for AI and Cloud Native Technologies to drive innovation in DevSecOps/MLOps.</h3>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=farhanashrafdev" alt="Profile Views"/>
