@@ -23,13 +23,8 @@ jobs:
         plugin_habits_facts: true
         plugin_habits_charts: false
         config_timezone: Asia/Karachi
-    # - name: Upload metrics
-    #   uses: actions/upload-artifact@v4  # Updated version
-    #   with:
-    #     name: metrics
-    #     path: metrics.plugin.habits.facts.svg
-    - name: Commit changes
-      run: |
-        git add .
-        git commit -m "Update metrics [skip ci]" || echo "No changes to commit"
-        git push origin HEAD:${{ github.head_ref }} || echo "No changes to push"
+    - name: Upload metrics
+      uses: actions/upload-artifact@v4  # Updated version
+      with:
+        name: metrics
+        path: metrics.plugin.habits.facts.svg
