@@ -69,7 +69,7 @@
 </p>
 
 <p>
-    <img style="float:left" width="625em" src="https://GitHub.com/farhanashrafdev/farhanashrafdev/blob/master/metrics.plugin.habits.facts.svg" alt="mriceflame" />
+    <img style="float:left" width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/metrics.plugin.habits.facts.svg" alt="mriceflame" />
 </p>
 
 <h3 align="left">Support:</h3>
