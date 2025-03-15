@@ -13,7 +13,6 @@
 </div>
 -->
 
-
 <ul>
     <li>🌱 I’m currently learning <strong>Python, Kubernetes, Securing CI/CD pipelines</strong></li>
     <li>👨‍💻 All of my projects are available at <a href="https://devpost.com/mriceflame">https://devpost.com/mriceflame</a></li>
