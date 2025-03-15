@@ -1,6 +1,9 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
-on: push
+on:
+  pull_request:
+    branches:
+      - master
   # Schedule updates
   #schedule: [{cron: "0 */24 * * *"}]
   # Lines below let you run workflow manually and on each commit
