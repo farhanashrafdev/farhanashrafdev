@@ -1,6 +1,6 @@
 name: Mildly interesting facts
 on:
-  pull_request:
+  push:
     branches:
       - master
 jobs:
