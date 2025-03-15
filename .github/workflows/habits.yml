@@ -8,13 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
     - name: Set user information
       run: |
         git config --global user.name "farhanashrafdev"
         git config --global user.email "farhanashrafali30@gmail.com"
     - name: Generate metrics
-      uses: lowlighter/metrics@v4.10
+      uses: lowlighter/metrics@main  # Use latest stable version
       with:
         filename: metrics.plugin.habits.facts.svg
         token: ${{ secrets.METRICS_TOKEN }}
@@ -24,7 +24,7 @@ jobs:
         plugin_habits_charts: false
         config_timezone: Asia/Karachi
     - name: Upload metrics
-      uses: actions/upload-artifact@v4  # Updated to v4
+      uses: actions/upload-artifact@v4  # Updated version
       with:
         name: metrics
         path: metrics.plugin.habits.facts.svg
