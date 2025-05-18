@@ -19,7 +19,7 @@
     <li>👨‍💻 All of my projects are available at <a href="https://devpost.com/mriceflame">https://devpost.com/mriceflame</a></li>
     <li>📝 I regularly write articles on <a href="https://blog.farhanashraf.dev">blog.farhanashraf.dev</a></li>
     <li>💬 Ask me about <strong>Docker, Kubernetes, DevOps</strong></li>
-    <li>📫 How to reach me <strong>mriceflame@protonmail.com</strong></li>
+    <li>📫 How to reach me <strong>farhanashrafdev@protonmail.com</strong></li>
     <li>⚡ Fun fact <strong>I possess a penchant for humor that I believe rivals that of the most seasoned comedians. 😄</strong></li>
 </ul>
 
