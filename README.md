@@ -56,12 +56,14 @@ I love sharing knowledge! I regularly speak at:
 
 ### 🏆 Featured Contributions
 
-| Project | Description | Role |
-|---------|-------------|------|
-| [**aws-ia/terraform-aws-bedrock**](https://github.com/aws-ia/terraform-aws-bedrock) | 🧠 **AWS GenAI Infrastructure**: Terraform module for deploying Amazon Bedrock agents, knowledge bases, and guardrails. | **Contributor** |
-| [**aws-ia/terraform-aws-agentcore**](https://github.com/aws-ia/terraform-aws-agentcore) | 🤖 **AI Agents Core**: Core modules for building and deploying autonomous AI agents on AWS infrastructure. | **Contributor** |
+| Project | Description | Context |
+|---------|-------------|---------|
+| [**90DaysOfCyberSecurity**](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 🔥 **12k+ Stars**: Comprehensive cybersecurity learning roadmap covering Linux, Python, AWS, Azure, ELK & more. | **Creator** |
+| [**aws-ia/terraform-aws-bedrock**](https://github.com/aws-ia/terraform-aws-bedrock) | 🧠 **AWS GenAI Infrastructure**: Terraform module for deploying Amazon Bedrock agents & guardrails. | **Contributor** |
+| [**aws-ia/terraform-aws-agentcore**](https://github.com/aws-ia/terraform-aws-agentcore) | 🤖 **AI Agents Core**: Core modules for building and deploying autonomous AI agents on AWS. | **Contributor** |
+| [**DevSecOpsGuideline**](https://github.com/farhanashrafdev/DevSecOpsGuideline) | 🛡️ **OWASP**: DevSecOps security pipeline implementation guide & best practices. | **Contributor** |
 
-> *Forefront of AI Cloud Infrastructure & Security*
+> *Forefront of AI Cloud Infrastructure & Security Education*
 
 ---
 
