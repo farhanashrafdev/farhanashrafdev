@@ -97,12 +97,22 @@ I love sharing knowledge! I regularly speak at:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhanashrafdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanashrafdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img width="80%" src="https://raw.githubusercontent.com/farhanashrafdev/farhanashrafdev/master/github-metrics.svg" alt="GitHub Metrics" />
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=farhanashrafdev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="45%" src="https://raw.githubusercontent.com/farhanashrafdev/farhanashrafdev/master/metrics.plugin.habits.facts.svg" alt="Habits" />
+  <img width="45%" src="https://raw.githubusercontent.com/farhanashrafdev/farhanashrafdev/master/metrics.plugin.lines.history.svg" alt="History" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="90%" src="https://raw.githubusercontent.com/farhanashrafdev/farhanashrafdev/master/metrics.terminal.svg" alt="Terminal Stats" />
 </div>
 
 <details>
