@@ -1,76 +1,122 @@
-<h1 align="center">Hi 👋, I'm Farhan Ashraf</h1>
-<h3 align="center">DevSecOps Engineer at Systems Ltd</h3>
-<h3 align="center">Leveraging my background in computer science and passion for AI and Cloud Native Technologies to drive innovation in DevSecOps/MLOps.</h3>
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Farhan+Ashraf;AISecOps+Engineer;Cloud+Native+Security+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+
+<br/>
+
+[![GitHub Campus Expert](https://img.shields.io/badge/GitHub-Campus_Expert-purple?style=for-the-badge&logo=github)](https://education.github.com/experts)
+[![Pro](https://img.shields.io/badge/GitHub-Pro-black?style=for-the-badge&logo=github)](https://github.com/farhanashrafdev)
+[![Profile Views](https://komarev.com/ghpvc/?username=farhanashrafdev&style=for-the-badge&color=blue)](https://github.com/farhanashrafdev)
+
+</div>
+
+---
+
+### 🚀 About Me
+
+```yaml
+name: Farhan Ashraf
+role: AISecOps Engineer @ Systems Ltd
+location: Pakistan
+focus: 
+  - AI-Powered Security Operations
+  - Cloud Native Security (Kubernetes, Docker)
+  - DevSecOps Pipeline Automation
+  - Threat Detection & Response
+
+currently_building:
+  - Open source security learning resources
+  - Cloud-native security tooling
+  - AI/ML security integrations
+```
+
+---
+
+### 🏆 Featured Projects
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=farhanashrafdev" alt="Profile Views"/>
+
+[![90DaysOfCyberSecurity](https://github-readme-stats.vercel.app/api/pin/?username=farhanashrafdev&repo=90DaysOfCyberSecurity&theme=tokyonight&hide_border=true)](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+[![DevSecOpsGuideline](https://github-readme-stats.vercel.app/api/pin/?username=farhanashrafdev&repo=DevSecOpsGuideline&theme=tokyonight&hide_border=true)](https://github.com/farhanashrafdev/DevSecOpsGuideline)
+
 </div>
-<!--
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | Comprehensive 90-day cybersecurity learning roadmap | ![Stars](https://img.shields.io/github/stars/farhanashrafdev/90DaysOfCyberSecurity?style=flat-square&color=yellow) |
+| [DevSecOpsGuideline](https://github.com/farhanashrafdev/DevSecOpsGuideline) | OWASP DevSecOps security pipeline guide | ![Stars](https://img.shields.io/github/stars/farhanashrafdev/DevSecOpsGuideline?style=flat-square&color=yellow) |
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
-    <a href="https://GitHub.com/farhanashrafdev">
-        <img src="https://hacked-GitHub-stat-trophies.flyn-nick.vercel.app/?username=farhanashrafdev" alt="GitHub Trophies" />
-    </a>
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Security & DevSecOps**
+
+![SAST](https://img.shields.io/badge/SAST-Security-red?style=for-the-badge)
+![DAST](https://img.shields.io/badge/DAST-Security-red?style=for-the-badge)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
--->
 
-<ul>
-    <li>🌱 I’m currently learning <strong>Python, Kubernetes, Securing CI/CD pipelines</strong></li>
-    <li>👨‍💻 All of my projects are available at <a href="https://devpost.com/mriceflame">https://devpost.com/mriceflame</a></li>
-    <li>📝 I regularly write articles on <a href="https://blog.farhanashraf.dev">blog.farhanashraf.dev</a></li>
-    <li>💬 Ask me about <strong>Docker, Kubernetes, DevOps</strong></li>
-    <li>📫 How to reach me <strong>farhanashrafdev@protonmail.com</strong></li>
-    <li>⚡ Fun fact <strong>I possess a penchant for humor that I believe rivals that of the most seasoned comedians. 😄</strong></li>
-</ul>
+---
 
+### 📊 GitHub Stats
 
-<h3>Blogs posts</h3>
-<ul>
-    <li><a href="https://blog.farhanashraf.tech/how-to-install-discord-on-kali-linux-20211-and-other-linux-distributions">Threat Actors and the Attack Surface</a></li>
-    <li><a href="https://blog.farhanashraf.tech/how-to-install-discord-on-kali-linux-20211-and-other-linux-distributions">How to install Discord on Kali Linux-20211 and other Linux Distributions</a></li>
-    <li><a href="https://blog.farhanashraf.dev/haveibeenpwned-breach-heres-what-you-need-to-know-and-do">Your data got breached? what to do next?</a></li> 
-    <li><a href="https://blog.farhanashraf.tech/get-aws-certified-for-free">Get AWS Certified For Free</a></li> 
-</ul>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://dev.to/mriceflame" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mriceflame" height="30" width="40" /></a>
-    <a href="https://twitter.com/mriceflame" target="_blank"><img src="https://raw.GitHubusercontent.com/rahuldkjain/GitHub-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mriceflame" height="30" width="40" /></a>
-    <!-- Add other social media links here -->
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farhanashrafdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanashrafdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<!-- Add your list of languages and tools here -->
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanashrafdev&theme=tokyonight&hide_border=true"/>
 
+</div>
 
-<h2><i>⚙️ GitHub Analytics</i></h2>
-<p align="center">
-    <a href="https://GitHub.com/farhanashrafdev">
-        <img height="180em" src="https://GitHub-readme-stats.vercel.app/api?username=farhanashrafdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://GitHub-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farhanashrafdev&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanashrafdev&theme=merko&hide_border=true" alt"https://camo.githubusercontent.com/9056ec9ba5e41d1e207a10d955a3a357ba4c5dfece422d9767031ef03235a949/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d66617268616e617368726166646576267468656d653d6d65726b6f26686964655f626f726465723d74727565"/> 
-</p>
-
-# GitHub Contributions
-<h4 align="center">Isometric view of contributions in the last year</h4>
+<h4 align="center">Contribution Graph</h4>
 <p align="center">
     <a href="./profile-3d-contrib/profile-night-green.svg">
-        <img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+        <img width="90%" src="./profile-3d-contrib/profile-night-green.svg">
     </a>
 </p>
 
-<h3 align="center">GitHub Metrics</h3>
-<p align="center">
-    <img width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/github-metrics.svg" />
-</p>
+---
 
-<p>
-    <img style="float:left" width="625em" src="https://github.com/farhanashrafdev/farhanashrafdev/blob/master/metrics.plugin.habits.facts.svg" alt="mriceflame" />
-</p>
+### 🤝 Connect With Me
 
-<h3 align="left">Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/mriceflame">
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mriceflame" />
-    </a>
-</p>
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/Blog-blog.farhanashraf.dev-00D9FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.farhanashraf.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanashrafdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhanashrafdev)
+[![Twitter](https://img.shields.io/badge/Twitter-@mriceflame-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mriceflame)
+[![Email](https://img.shields.io/badge/Email-farhanashrafdev@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:farhanashrafdev@protonmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mriceflame)
+
+</div>
