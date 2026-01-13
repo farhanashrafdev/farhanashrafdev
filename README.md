@@ -54,12 +54,14 @@ I love sharing knowledge! I regularly speak at:
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Featured Contributions
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [**90DaysOfCyberSecurity**](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 🔥 Comprehensive 90-day cybersecurity learning roadmap covering Linux, Python, AWS, Azure, ELK & more | ![Stars](https://img.shields.io/github/stars/farhanashrafdev/90DaysOfCyberSecurity?style=social) |
-| [**DevSecOpsGuideline**](https://github.com/farhanashrafdev/DevSecOpsGuideline) | 🛡️ OWASP DevSecOps security pipeline implementation guide | ![Stars](https://img.shields.io/github/stars/farhanashrafdev/DevSecOpsGuideline?style=social) |
+| Project | Description | Role |
+|---------|-------------|------|
+| [**aws-ia/terraform-aws-bedrock**](https://github.com/aws-ia/terraform-aws-bedrock) | 🧠 **AWS GenAI Infrastructure**: Terraform module for deploying Amazon Bedrock agents, knowledge bases, and guardrails. | **Contributor** |
+| [**aws-ia/terraform-aws-agentcore**](https://github.com/aws-ia/terraform-aws-agentcore) | 🤖 **AI Agents Core**: Core modules for building and deploying autonomous AI agents on AWS infrastructure. | **Contributor** |
+
+> *Forefront of AI Cloud Infrastructure & Security*
 
 ---
 
