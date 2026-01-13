@@ -34,6 +34,12 @@ passionate_about:
   - 📚 Creating open-source learning resources
   - 🤝 Collaborating on security projects
 
+currently_learning:
+  - 🧠 Advanced AI & Custom Model Training
+  - 🤖 LLM Fine-tuning & Architecture
+  - 🛡️ AI Security (Adversarial ML)
+  - ⚡ High-Performance Model Serving
+
 open_to:
   - Remote roles in DevSecOps / Cloud Security
   - Speaking opportunities
