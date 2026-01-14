@@ -13,6 +13,17 @@
 
 </div>
 
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=farhanashrafdev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</div>
+
 ---
 
 ### 🚀 About Me
@@ -46,6 +57,41 @@ open_to:
   - Open source collaborations
   - Hackathon teams
 ```
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhanashrafdev/farhanashrafdev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farhanashrafdev/farhanashrafdev/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/farhanashrafdev/farhanashrafdev/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 📊 GitHub Stats Dashboard
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhanashrafdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanashrafdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanashrafdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanashrafdev&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
@@ -104,7 +150,15 @@ I love sharing knowledge! I regularly speak at:
 
 ---
 
-### 📊 GitHub Stats
+### 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
+### 📊 GitHub Metrics
 
 <div align="center">
 
@@ -161,3 +215,6 @@ I'm actively looking for:
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mriceflame)
 
 </div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
