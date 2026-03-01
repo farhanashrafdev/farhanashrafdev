@@ -102,28 +102,6 @@ I love sharing knowledge! I regularly speak at:
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img width="80%" src="https://raw.githubusercontent.com/farhanashrafdev/farhanashrafdev/master/github-metrics.svg" alt="GitHub Metrics" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="45%" src="https://raw.githubusercontent.com/farhanashrafdev/farhanashrafdev/master/metrics.plugin.habits.facts.svg" alt="Habits" />
-  <img width="45%" src="https://raw.githubusercontent.com/farhanashrafdev/farhanashrafdev/master/metrics.plugin.lines.history.svg" alt="History" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="90%" src="https://raw.githubusercontent.com/farhanashrafdev/farhanashrafdev/master/metrics.terminal.svg" alt="Terminal Stats" />
-</div>
 
 <details>
 <summary>📈 3D Contribution Graph</summary>
