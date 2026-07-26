@@ -1,26 +1,41 @@
-
 name: GitHub-Profile-3D-Contrib
 
-on: push
-  # schedule:
-  #   - cron: "0 */18 * * *"
-  # workflow_dispatch:
+on:
+  push:
+    branches: [master]
+    # The generated SVGs are committed back by this workflow. Ignoring them
+    # prevents the commit from re-triggering this run.
+    paths-ignore:
+      - "**.svg"
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@main
+      # actions/checkout v4.3.0, pinned by SHA
+      - uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955
+
+      # github-profile-3d-contrib v0.9.3, pinned by SHA
+      - uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_3D_GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: ${{ github.repository_count }}
-      - name: Commit & Push
+
+      - name: Commit & push if changed
         run: |
           git config user.name farhanashrafdev
           git config user.email farhanashrafali30@gmail.com
           git add -A .
-          git commit -m "Personal 3d Contributions images updated"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update 3D contribution graph"
+            git push
+          fi
