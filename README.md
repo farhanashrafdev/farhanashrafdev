@@ -48,22 +48,14 @@ open_to:
 
 ---
 
-### 🔨 Projects I Built
+### 🏆 Featured Contributions
 
-| Project | What It Is |
-|---------|------------|
-| [**90DaysOfCyberSecurity**](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) <br/> ![Stars](https://img.shields.io/github/stars/farhanashrafdev/90DaysOfCyberSecurity?style=flat&color=00D9FF) | 🔥 A 90-day cybersecurity learning roadmap covering Linux, Python, traffic analysis, ELK, AWS and Azure. One of the most-starred security study plans on GitHub. |
-| [**TheUltimateDevOpsBible**](https://github.com/farhanashrafdev/TheUltimateDevOpsBible-ZeroToHero) <br/> ![Stars](https://img.shields.io/github/stars/farhanashrafdev/TheUltimateDevOpsBible-ZeroToHero?style=flat&color=00D9FF) | 📖 An offline-first, production-grade path into DevOps, DevSecOps, AI SecOps and AIOps. |
-| [**mantis**](https://github.com/farhanashrafdev/mantis) <br/> ![Stars](https://img.shields.io/github/stars/farhanashrafdev/mantis?style=flat&color=00D9FF) | 🦗 Open-source AI red-team CLI. Automated security testing for LLM apps, built to drop into CI/CD. |
-| [**GenAI-Kubernetes-Security-Scanner**](https://github.com/farhanashrafdev/GenAI-Kubernetes-Security-Scanner) <br/> ![Stars](https://img.shields.io/github/stars/farhanashrafdev/GenAI-Kubernetes-Security-Scanner?style=flat&color=00D9FF) | ☸️ Kubernetes pod scanner that uses AWS Bedrock LLMs to analyse configurations and flag risks in real time. |
-
-### 🤝 Upstream Contributions
-
-| Project | Contribution |
-|---------|--------------|
-| [**OWASP/DevSecOpsGuideline**](https://github.com/OWASP/DevSecOpsGuideline) | 🛡️ Path-compatibility fix for the guideline tree ([#98](https://github.com/OWASP/DevSecOpsGuideline/pull/98)) |
-| [**aws-ia/terraform-aws-bedrock**](https://github.com/aws-ia/terraform-aws-bedrock) | 🧠 Guardrail image filters + Cloud Control API schema compliance ([#162](https://github.com/aws-ia/terraform-aws-bedrock/pull/162)) |
-| [**aws-ia/terraform-aws-agentcore**](https://github.com/aws-ia/terraform-aws-agentcore) | 🤖 Gateway interceptor configuration for AI agent security ([#20](https://github.com/aws-ia/terraform-aws-agentcore/pull/20)) |
+| Project | Description | Context |
+|---------|-------------|---------|
+| [**90DaysOfCyberSecurity**](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 🔥 **17.9k+ Stars**: Comprehensive cybersecurity learning roadmap covering Linux, Python, AWS, Azure, ELK & more. | **Creator** |
+| [**aws-ia/terraform-aws-bedrock**](https://github.com/aws-ia/terraform-aws-bedrock) | 🧠 **AWS GenAI Infrastructure**: Terraform module for deploying Amazon Bedrock agents & guardrails. | **Contributor** |
+| [**aws-ia/terraform-aws-agentcore**](https://github.com/aws-ia/terraform-aws-agentcore) | 🤖 **AI Agents Core**: Core modules for building and deploying autonomous AI agents on AWS. | **Contributor** |
+| [**DevSecOpsGuideline**](https://github.com/OWASP/DevSecOpsGuideline) | 🛡️ **OWASP**: DevSecOps security pipeline implementation guide & best practices. | **Contributor** |
 
 ---
 
