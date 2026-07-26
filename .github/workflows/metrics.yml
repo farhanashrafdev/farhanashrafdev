@@ -1,16 +1,27 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
-on: push
-  # Schedule updates
-  #schedule: [{cron: "0 */24 * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  #workflow_dispatch:
-  # push: {branches: ["master", "main"]}
+
+on:
+  push:
+    branches: [master]
+    # Generated SVGs are committed back by this workflow. Ignoring them
+    # prevents the commit from re-triggering this run.
+    paths-ignore:
+      - "**.svg"
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      # Pinned to v3.34 by commit SHA: this action receives a PAT, so a mutable
+      # ref (@latest / @main) would be a supply-chain risk.
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
