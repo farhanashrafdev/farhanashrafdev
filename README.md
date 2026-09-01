@@ -158,6 +158,6 @@ I love sharing knowledge! I regularly speak at:
 
 *Open to remote DevSecOps and cloud security roles, security-focused open source, speaking slots, and hackathon teams. Let's build something awesome together.*
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mriceflame)
+<!-- [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mriceflame) -->
 
 </div>
