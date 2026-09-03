@@ -48,14 +48,42 @@ open_to:
 
 ---
 
-### 🏆 Featured Contributions
+### 🏆 Open-Source Contributions & Impact
 
-| Project | Description | Context |
-|---------|-------------|---------|
-| [**90DaysOfCyberSecurity**](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 🔥 **17.9k+ Stars**: Comprehensive cybersecurity learning roadmap covering Linux, Python, AWS, Azure, ELK & more. | **Creator** |
-| [**aws-ia/terraform-aws-bedrock**](https://github.com/aws-ia/terraform-aws-bedrock) | 🧠 **AWS GenAI Infrastructure**: Terraform module for deploying Amazon Bedrock agents & guardrails. | **Contributor** |
-| [**aws-ia/terraform-aws-agentcore**](https://github.com/aws-ia/terraform-aws-agentcore) | 🤖 **AI Agents Core**: Core modules for building and deploying autonomous AI agents on AWS. | **Contributor** |
-| [**DevSecOpsGuideline**](https://github.com/OWASP/DevSecOpsGuideline) | 🛡️ **OWASP**: DevSecOps security pipeline implementation guide & best practices. | **Contributor** |
+Selected work framed as **Situation → Task → Action → Result**, with project-level reach separated from the direct outcome of each change.
+
+- **🔥 [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) — Creator**
+  - **Situation:** Cybersecurity beginners faced a broad, fragmented learning landscape without a practical sequence to follow.
+  - **Task:** Turn the core skills into an approachable, day-by-day path from fundamentals to hands-on security work.
+  - **Action:** Created and continue to maintain a free 90-day roadmap spanning networking, Linux, Python, traffic analysis, ELK, cloud, and ethical hacking.
+  - **Result:** The roadmap has earned **18.8k+ stars** and **2.1k+ forks**, demonstrating sustained global discovery and community reuse.
+  - ![GitHub stars](https://img.shields.io/github/stars/farhanashrafdev/90DaysOfCyberSecurity?style=flat-square&logo=github&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/farhanashrafdev/90DaysOfCyberSecurity?style=flat-square&logo=github&label=Forks)
+
+- **🧠 [AWS IA Terraform Bedrock](https://github.com/aws-ia/terraform-aws-bedrock) — [Merged PR #162](https://github.com/aws-ia/terraform-aws-bedrock/pull/162)**
+  - **Situation:** The reusable module lacked image-filter guardrails and typed coverage for newer Bedrock Cloud Control resources, leaving configuration gaps and weaker validation.
+  - **Task:** Bring the module's guardrail and resource schemas in line with current Bedrock capabilities.
+  - **Action:** Added image-filter support, strongly typed guardrail inputs, automated-reasoning policies, and broader Cloud Control schema coverage.
+  - **Result:** Teams can define text and image safeguards with earlier validation and better IDE guidance; the capability is now available in a module with **[119k+ Terraform Registry downloads](https://registry.terraform.io/modules/aws-ia/bedrock/aws/latest)**.
+
+- **🤖 [AWS IA Terraform AgentCore](https://github.com/aws-ia/terraform-aws-agentcore) — [Merged PR #20](https://github.com/aws-ia/terraform-aws-agentcore/pull/20)**
+  - **Situation:** AgentCore gateways had no first-class Terraform support for request and response Lambda interceptors.
+  - **Task:** Make gateway-boundary controls reusable without requiring teams to wire Lambda access manually.
+  - **Action:** Implemented validated interceptor configuration, outputs, documentation, and automatic Lambda invoke permissions.
+  - **Result:** Teams can add authorization, payload transformation, PII masking, and policy enforcement at the gateway boundary through a module with **[21k+ Terraform Registry downloads](https://registry.terraform.io/modules/aws-ia/agentcore/aws/latest)**.
+
+- **🛡️ [OWASP DevSecOps Guideline](https://github.com/OWASP/DevSecOpsGuideline) — [Merged PR #98](https://github.com/OWASP/DevSecOpsGuideline/pull/98)**
+  - **Situation:** Legacy repository paths contained `|`, a Windows-reserved character that prevented a complete working-tree checkout on Windows.
+  - **Task:** Remove the contributor-access barrier without changing the guideline's content or breaking other platforms.
+  - **Action:** Renamed the invalid paths and updated the affected files consistently across the repository.
+  - **Result:** Windows users can now obtain a complete checkout, removing this prerequisite barrier to contribution. That matters on an OS reported by **[49.5% of professional-developer respondents](https://survey.stackoverflow.co/2025/technology/#1-operating-system)** in Stack Overflow's 2025 survey, for an OWASP project with **1.1k+ stars** and **260+ forks**.
+
+- **🔭 [CNCF Inspektor Gadget](https://github.com/inspektor-gadget/inspektor-gadget) — [Merged PR #5721](https://github.com/inspektor-gadget/inspektor-gadget/pull/5721)**
+  - **Situation:** The default Prometheus annotation targeted legacy port `2223` while the OpenTelemetry metrics listener used `2224`, sending discovery to the wrong endpoint.
+  - **Task:** Restore correct default metrics discovery and keep generated deployment paths aligned.
+  - **Action:** Corrected the scrape port and regenerated the Helm and `kubectl gadget deploy` manifests.
+  - **Result:** Default Prometheus discovery now targets the live metrics endpoint across both installation paths in a **2.9k+ star / 370+ fork** CNCF project whose instrumentation also **[underpins Microsoft Defender for Containers](https://techcommunity.microsoft.com/blog/microsoftdefendercloudblog/ebpf-powered-threat-protection-using-inspektor-gadget/4115873)**.
+
+_Reach figures checked 1 September 2026. Downloads, stars, and forks indicate project scale—not the number of users who consumed a specific change._
 
 ---
 
@@ -130,6 +158,6 @@ I love sharing knowledge! I regularly speak at:
 
 *Open to remote DevSecOps and cloud security roles, security-focused open source, speaking slots, and hackathon teams. Let's build something awesome together.*
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mriceflame)
+<!-- [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mriceflame) -->
 
 </div>
