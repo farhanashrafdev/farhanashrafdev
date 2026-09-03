@@ -55,7 +55,7 @@ Selected work framed as **Situation → Task → Action → Result**, with proje
 - **🔥 [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) — Creator**
   - **Situation:** Cybersecurity beginners faced a broad, fragmented learning landscape without a practical sequence to follow.
   - **Task:** Turn the core skills into an approachable, day-by-day path from fundamentals to hands-on security work.
-  - **Action:** Created and maintain a free 90-day roadmap spanning networking, Linux, Python, traffic analysis, ELK, cloud, and ethical hacking.
+  - **Action:** Created and continue to maintain a free 90-day roadmap spanning networking, Linux, Python, traffic analysis, ELK, cloud, and ethical hacking.
   - **Result:** The roadmap has earned **18.8k+ stars** and **2.1k+ forks**, demonstrating sustained global discovery and community reuse.
   - ![GitHub stars](https://img.shields.io/github/stars/farhanashrafdev/90DaysOfCyberSecurity?style=flat-square&logo=github&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/farhanashrafdev/90DaysOfCyberSecurity?style=flat-square&logo=github&label=Forks)
 
