@@ -8,7 +8,8 @@ on:
     paths-ignore:
       - "**.svg"
   schedule:
-    - cron: "0 4 * * *"
+    # GitHub cron uses UTC. 19:00 UTC is 00:00 in Asia/Karachi (UTC+5).
+    - cron: "0 19 * * *"
   workflow_dispatch:
 
 permissions:

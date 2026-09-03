@@ -5,7 +5,7 @@
 
 <br/>
 
-[![GitHub Campus Expert](https://img.shields.io/badge/GitHub-Campus_Expert-purple?style=for-the-badge&logo=github)](https://education.github.com/experts)
+[![Open Source Maintainer & Contributor](https://img.shields.io/badge/Open_Source-Maintainer_%26_Contributor-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#-open-source-contributions--impact)
 [![Profile Views](https://komarev.com/ghpvc/?username=farhanashrafdev&style=for-the-badge&color=blue)](https://github.com/farhanashrafdev)
 
 **🎤 Speaker • 🏆 Hackathon Enthusiast • 🌍 Open to Remote Opportunities**
@@ -22,10 +22,10 @@ role: AISecOps Engineer @ Systems Ltd
 location: Pakistan
 
 what_i_do:
-  - AI-Powered Security Operations
-  - Cloud Native Security (Kubernetes, Docker)
+  - Securing Generative AI Systems (guardrails, model safety)
+  - Cloud Native Security (Kubernetes, OpenShift, Docker)
   - DevSecOps Pipeline Automation
-  - Threat Detection & Response
+  - Security Observability, Threat Detection & Response (OpenTelemetry)
 
 passionate_about:
   - 🎤 Speaking at tech conferences & meetups
@@ -108,6 +108,7 @@ I love sharing knowledge! I regularly speak at:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
@@ -117,6 +118,7 @@ I love sharing knowledge! I regularly speak at:
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Falco](https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logo=falco&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 **Languages & Tools**
 
