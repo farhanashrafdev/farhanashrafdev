@@ -32,5 +32,8 @@ jobs:
           config_timezone: Asia/Karachi
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-          plugin_lines: yes
+          # plugin_lines is disabled: commits whose author is not linked to a
+          # GitHub account make the plugin return an error object, and the
+          # classic template then crashes while rendering partials/lines.ejs,
+          # failing the whole job.
           plugin_stargazers: yes
