@@ -6,6 +6,7 @@
 <br/>
 
 [![Open Source Maintainer & Contributor](https://img.shields.io/badge/Open_Source-Maintainer_%26_Contributor-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#-open-source-contributions--impact)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=farhanashrafdev&style=for-the-badge&color=blue)](https://github.com/farhanashrafdev)
 
 **🎤 Speaker • 🏆 Hackathon Enthusiast • 🌍 Open to Remote Opportunities**
