@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <!-- Animated Header -->
@@ -131,7 +133,7 @@ I love sharing knowledge! I regularly speak at:
 </div>
 
 <details>
-<summary>📊 GitHub Metrics</summary>
+<summary>📊 GitHub Metrics (auto-updated by GitHub Actions)</summary>
 <br/>
 <p align="center">
     <img width="90%" src="./github-metrics.svg" alt="GitHub Metrics">
